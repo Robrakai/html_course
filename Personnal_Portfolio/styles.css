@@ -1,0 +1,49 @@
+header h1 {
+	color: rgb(156, 72, 72);
+	font-size: 2.5em;
+	padding: 5px;
+	text-align: center;
+	margin: 20px;
+	border: 2px solid rgb(156, 72, 72);
+}
+
+#udr {
+	padding: 5px;
+	color: rgb(105, 83, 83);
+
+	text-align: center;
+}
+
+main h1 {
+	color: rgb(156, 72, 72);
+	font-size: 1.5em;
+}
+
+body nav {
+	color: rgb(224, 104, 104);
+	font-size: 1em;
+}
+
+body h2 {
+	color: rgb(139, 112, 52);
+	font-size: 1.6em;
+}
+
+body h3 {
+	color: rgb(105, 129, 66);
+	font-size: 1.2em;
+}
+
+
+* {
+  color: rgb(85, 99, 92);
+}
+
+body {
+  background-color: rgb(222, 182, 136);
+}
+
+footer {
+	color: rgba(0, 0, 0, 0.479);
+}
+
